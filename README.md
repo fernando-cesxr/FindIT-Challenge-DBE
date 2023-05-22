@@ -2,7 +2,6 @@
 
 Uma API para obter informações sobre turismo 
 
-
 ### Endpoints 
 
 - Agencia
